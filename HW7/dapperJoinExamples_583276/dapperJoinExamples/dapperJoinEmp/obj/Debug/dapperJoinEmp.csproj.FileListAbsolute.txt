@@ -1,0 +1,8 @@
+C:\Users\andy.harbert\Documents\Local Courses Fall16\Database\dapperJoinEmp\dapperJoinEmp\bin\Debug\dapperJoinEmp.exe.config
+C:\Users\andy.harbert\Documents\Local Courses Fall16\Database\dapperJoinEmp\dapperJoinEmp\bin\Debug\dapperJoinEmp.exe
+C:\Users\andy.harbert\Documents\Local Courses Fall16\Database\dapperJoinEmp\dapperJoinEmp\bin\Debug\dapperJoinEmp.pdb
+C:\Users\andy.harbert\Documents\Local Courses Fall16\Database\dapperJoinEmp\dapperJoinEmp\bin\Debug\Dapper.dll
+C:\Users\andy.harbert\Documents\Local Courses Fall16\Database\dapperJoinEmp\dapperJoinEmp\bin\Debug\Dapper.xml
+C:\Users\andy.harbert\Documents\Local Courses Fall16\Database\dapperJoinEmp\dapperJoinEmp\obj\Debug\dapperJoinEmp.exe
+C:\Users\andy.harbert\Documents\Local Courses Fall16\Database\dapperJoinEmp\dapperJoinEmp\obj\Debug\dapperJoinEmp.pdb
+C:\Users\andy.harbert\Documents\Local Courses Fall16\Database\dapperJoinEmp\dapperJoinEmp\obj\Debug\dapperJoinEmp.csprojResolveAssemblyReference.cache
